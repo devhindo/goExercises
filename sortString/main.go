@@ -1,5 +1,11 @@
 package main
 
+/*
+
+sort string in ascending order 
+
+*/
+
 import (
 	"sort"
 	"strings"
