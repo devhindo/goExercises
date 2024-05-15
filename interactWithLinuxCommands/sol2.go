@@ -1,6 +1,3 @@
 package main
 
-import "os/exec"
-
-func sol2() (
-)
+// do it yourself: exec grep.sh script living on the same directory
